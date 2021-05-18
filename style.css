@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/e5/6f/2e/e56f2e85fead89e43872ae0b462d6030.jpg");
+      /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  h1 {
+    color: red;
+  }
+  h2 {
+    color: rgb(76, 0, 255);
+  }
+  p {
+    color: rgb(122, 110, 235)
+  }
