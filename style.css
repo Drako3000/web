@@ -1,5 +1,6 @@
 body {
-    background-image: url("https://i.pinimg.com/originals/e5/6f/2e/e56f2e85fead89e43872ae0b462d6030.jpg");
+    background-image: url("https://filmozrouti.cz/galerie/2020/01/20200116110848000000_4_8222.jpg");
+    
       /* Full height */
   height: 100%; 
 
@@ -12,8 +13,8 @@ body {
     color: red;
   }
   h2 {
-    color: rgb(76, 0, 255);
+    color: rgb(255, 0, 0);
   }
   p {
-    color: rgb(122, 110, 235)
+    color: rgb(0, 250, 62)
   }
